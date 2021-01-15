@@ -1,2 +1,2 @@
 # Practicas
-Prcaticas para Ninja
+Practicas para Ninja
